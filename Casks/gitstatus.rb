@@ -1,6 +1,6 @@
 cask "gitstatus" do
   version "1.0.0"
-  sha256 "e3ab0001e0da3776e6a39b3a8ffe9fbab092b13c41c9f84beeb71bc5ecdfb961"
+  sha256 "bc732c8f5852ec030de64d7e4e673ce390372711ba034b13f608916d05922851"
 
   url "https://github.com/TimBroddin/gitstatus/releases/download/v#{version}/GitStatus.zip"
   name "GitStatus"
