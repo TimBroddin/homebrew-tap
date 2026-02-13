@@ -1,6 +1,6 @@
 cask "portie" do
-  version "1.0.1"
-  sha256 "0adf9e2a7d3e829ba5c1c9ad3dce20b5839f5378a9b2e186f77360eee44b1aa7"
+  version "1.1"
+  sha256 "0754f261c3fc978e890c309174c916615cc48b239a3e05230dc8032d3cf126f2"
 
   url "https://github.com/TimBroddin/portie/releases/download/v#{version}/Portie.zip"
   name "Portie"
