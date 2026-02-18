@@ -1,6 +1,6 @@
 cask "workforce" do
-  version "0.1"
-  sha256 "155d2e4ed9148296441c188fd723b439ad9b1d6756cba1442f818099d21c0bd9"
+  version "0.2"
+  sha256 "8bfa270baf523432646f5fadfb375282f4325a4cddd8020209dda7af61dbff5b"
 
   url "https://github.com/TimBroddin/workforce/releases/download/v#{version}/Workforce-v#{version}.zip"
   name "Workforce"
